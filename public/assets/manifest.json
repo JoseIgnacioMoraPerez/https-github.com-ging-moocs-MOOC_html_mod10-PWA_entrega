@@ -1,0 +1,20 @@
+{
+    "name": "Shooter Game",
+    "short_name": "Shoot",
+    "icons": [
+        {
+          "src": "icons/icon-144x144.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "start_url": "../index.html",
+      "display": "standalone",
+      "background_color": "#333333",
+      "theme_color": "#6200ee"
+    }
