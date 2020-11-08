@@ -16,6 +16,7 @@ const FILES_TO_CACHE = [
   '/Shot.js',
   '/game.css',
   '/install.js',
+  
   '/assets/bueno_muerto.png',
   '/assets/bueno.png',
   '/assets/game_over.png',
